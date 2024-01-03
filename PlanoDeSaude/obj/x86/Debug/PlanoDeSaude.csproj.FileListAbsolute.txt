@@ -1,0 +1,17 @@
+C:\Users\aluno\documents\visual studio 2010\Projects\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.pdb
+C:\Users\aluno\documents\visual studio 2010\Projects\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.exe
+C:\Users\aluno\documents\visual studio 2010\Projects\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.pdb
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.exe
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.pdb
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.exe
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.pdb
+E:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.exe
+E:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.exe.config
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\bin\Debug\PlanoDeSaude_Revisao.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude.csproj.AssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude.csproj.CoreCompileInputs.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\PlanoDeSaude_Revisao\PlanoDeSaude_Revisao\obj\x86\Debug\PlanoDeSaude_Revisao.pdb
